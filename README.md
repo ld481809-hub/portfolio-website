@@ -1,19 +1,20 @@
-# Portfolio Website
+# Luckyfx Portfolio Website
 
-Welcome to my portfolio website project.
+Welcome to my personal portfolio website.
 
 ## About Me
-I am Lucky FX, a Software and Web Developer passionate about building modern websites and applications.
+I am a Software and Web Developer passionate about building modern, responsive, and user-friendly digital solutions.
 
 ## Skills
+- Web Development
+- Software Development
 - HTML
 - CSS
 - JavaScript
-- Git
-- GitHub
+- Git & GitHub
 
 ## Projects
-More projects coming soon.
+This portfolio showcases my projects, technical skills, and professional journey.
 
 ## Contact
-GitHub: https://github.com/Id481809-hub
+Feel free to connect with me for collaborations and opportunities.
